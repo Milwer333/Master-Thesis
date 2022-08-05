@@ -14,6 +14,7 @@ ___
 * Custom made Power Distribution Board
 * Betaflight configuration
 * Drone frame desinged in CAD software
+* Assembly process with BOM
 * R&D of data transmission methods
 * Testing process of the assembled drone
 * End results
@@ -26,6 +27,7 @@ ___
 * PDB (Research)
 * Betaflight configuration (Not started)
 * Drone frame (Main frame completed, detail work remaining)
+* Assembly (Not started)
 * Transmission R&D (Not started)
 * Testing (Not started)
 * End results (Not started)
