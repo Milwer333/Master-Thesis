@@ -34,7 +34,7 @@ ___
 
 ___
 
-BSD 3-Clause License - Copyright (c) 2022, Miłosz Werner - All rights reserved.
+Copyright © 2022, Miłosz Werner - All rights reserved. 
 
 
 
