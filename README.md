@@ -6,31 +6,25 @@
 **Disclamer:** _This is a work in progress, elements of this repository will be regularly updated during the developement process_
 
 ___
-### CURRENT STAGE: Design of the drone frame
+### CURRENT STAGE: Assembly of the FC
 ___
 
-**Broadly, this repository consists of:**
+**Broadly, this repository will consists of:**
 * Custom made STMF7-based Fligh Controller
 * Custom made Power Distribution Board
 * Betaflight configuration
 * Drone frame desinged in CAD software
 * Assembly process with BOM
-* R&D of data transmission methods
-* Testing process of the assembled drone
-* End results
 
 **Note:** Subfolders include an additional README that describes its contents
 ___
 
 **Completion:**
-* FC (Research)
+* FC (Done)
 * PDB (Research)
 * Betaflight configuration (Not started)
-* Drone frame (Main frame completed, detail work remaining)
-* Assembly (Not started)
-* Transmission R&D (Not started)
-* Testing (Not started)
-* End results (Not started)
+* Drone frame (Done)
+* Assembly (In progress)
 
 ___
 
