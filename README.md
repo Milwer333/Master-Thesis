@@ -21,13 +21,16 @@ ___
 
 **Completion:**
 * FC (Done)
+
 ![MW-FC-F7_v1](https://user-images.githubusercontent.com/62721481/207848120-a0529012-b3e3-4b74-81a6-841fb5ac2d94.png)
 ![MW-FC-F7_v1_back](https://user-images.githubusercontent.com/62721481/207848132-76a2123b-3bca-4d80-9858-fd4472bfbf3a.png)
+
 * PDB (Research)
 * Betaflight configuration (Not started)
 * Drone frame (Done)
-* Assembly (In progress)
 
+* Assembly (In progress)
+![MW-D1-Frame_ALPHA_SIDE_PROFILE](https://user-images.githubusercontent.com/62721481/207848340-410d62e9-ea50-4b1f-b9f6-d1c1898068bb.png)
 ___
 
 Copyright © 2022, Miłosz Werner - All rights reserved. 
