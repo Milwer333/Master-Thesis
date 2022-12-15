@@ -21,6 +21,8 @@ ___
 
 **Completion:**
 * FC (Done)
+![MW-FC-F7_v1](https://user-images.githubusercontent.com/62721481/207848120-a0529012-b3e3-4b74-81a6-841fb5ac2d94.png)
+![MW-FC-F7_v1_back](https://user-images.githubusercontent.com/62721481/207848132-76a2123b-3bca-4d80-9858-fd4472bfbf3a.png)
 * PDB (Research)
 * Betaflight configuration (Not started)
 * Drone frame (Done)
