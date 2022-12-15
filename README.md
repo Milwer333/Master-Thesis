@@ -28,9 +28,10 @@ ___
 * PDB (Research)
 * Betaflight configuration (Not started)
 * Drone frame (Done)
+* 
+![MW-D1-Frame_ALPHA_SIDE_PROFILE](https://user-images.githubusercontent.com/62721481/207848340-410d62e9-ea50-4b1f-b9f6-d1c1898068bb.png)
 
 * Assembly (In progress)
-![MW-D1-Frame_ALPHA_SIDE_PROFILE](https://user-images.githubusercontent.com/62721481/207848340-410d62e9-ea50-4b1f-b9f6-d1c1898068bb.png)
 ___
 
 Copyright © 2022, Miłosz Werner - All rights reserved. 
