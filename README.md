@@ -1,7 +1,7 @@
 # MW
 **Complex high-speed PCB design**. Tis repository is a collection of materials gathered for my master engineering thesis for the Wroclaw University of Science and Technology titled:
 
-**_Analysis of high-speed PCBs based on their EMC attributes and thermal characteristics_**
+**[Working title]_Analysis of selected materials for Multilayer PCB Stack-up used in high-speed, differential circuitry for automotive applications_**
 
 **Disclamer:** _This is a work in progress, elements of this repository will be regularly updated during the developement process_
 
