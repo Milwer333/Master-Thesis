@@ -1,5 +1,5 @@
 # MW
-**Complex high-speed PCB design**. Tis repository is a collection of materials gathered for my master engineering thesis for the Wroclaw University of Science and Technology titled:
+Tis repository is a collection of materials gathered for my master engineering thesis for the Wroclaw University of Science and Technology titled:
 
 **[Working title] _Analysis of selected materials for Multilayer PCB Stack-up used in high-speed, differential circuitry for automotive applications_**
 
