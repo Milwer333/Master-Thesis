@@ -6,7 +6,7 @@ Tis repository is a collection of materials gathered for my master engineering t
 **Disclamer:** _This is a work in progress, elements of this repository will be regularly updated during the developement process_
 
 ___
-### CURRENT STAGE: ~
+### CURRENT STAGE: Planning
 ___
 
 **Broadly, this repository will consist of:**
